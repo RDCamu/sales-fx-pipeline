@@ -1,1 +1,4 @@
-# sales-fx-pipeline
+GOAL
+ARCHITECTURE
+HOW TO RUN
+STATUS
